@@ -1,0 +1,7 @@
+*.map
+*.css.map
+*.gitignore
+/dart-sass
+*.scss
+*.bat
+random
